@@ -1,1 +1,1 @@
-# Bayesian-adaptive-trial-design-for-multiarm-comprisons
+# Bayesian-adaptive-trial-design-for-multiarm-comparisons
